@@ -1,5 +1,6 @@
 # Desafio-DIO-LanternaRN
 Desafio DIO Decola Tech: Construindo um app usando o sensor de movimento com React Native.
+
 Obs: O projeo foi emulado com Expo Go.
 
 ![image](https://user-images.githubusercontent.com/108284800/176758419-a3b39ead-6c1c-44b2-b7b3-1b0c2e097eda.png)
